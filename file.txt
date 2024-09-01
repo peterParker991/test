@@ -1,2 +1,3 @@
-name is khan
-This is pull request change.
+Changed the enitre file. 
+How does it looks like.
+
