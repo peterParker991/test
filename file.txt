@@ -1,3 +1,5 @@
-Changed the enitre file. 
-How does it looks like.
+Github project can be useful for 
+> traciking progress.
+> creating issues.
+> magnaing pull requests
 
